@@ -1,0 +1,461 @@
+[
+	{
+		"id": "Araujo2015",
+		"type": "article-journal",
+		"container-title": "PLOS ONE",
+		"DOI": "10.1371/journal.pone.0139225",
+		"issue": "10",
+		"journalAbbreviation": "PLOS ONE",
+		"page": "e0139225",
+		"title": "Understanding Host-Switching by Ecological Fitting",
+		"URL": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0139225",
+		"volume": "10",
+		"author": [
+			{
+				"family": "Araujo",
+				"given": "Sabrina B. L."
+			},
+			{
+				"family": "Braga",
+				"given": "Mariana Pires"
+			},
+			{
+				"family": "Brooks",
+				"given": "Daniel R."
+			},
+			{
+				"family": "Agosta",
+				"given": "Salvatore J."
+			},
+			{
+				"family": "Hoberg",
+				"given": "Eric P."
+			},
+			{
+				"family": "Hartenthal",
+				"given": "Francisco W.",
+				"dropping-particle": "von"
+			},
+			{
+				"family": "Boeger",
+				"given": "Walter A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					10,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "Panassiti2017",
+		"type": "article-journal",
+		"container-title": "Basic and Applied Ecology",
+		"DOI": "10.1016/j.baae.2016.11.005",
+		"ISSN": "1439-1791",
+		"journalAbbreviation": "Basic and Applied Ecology",
+		"language": "en",
+		"page": "75-85",
+		"source": "ScienceDirect",
+		"title": "Identifying local drivers of a vector-pathogen-disease system using Bayesian modeling",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S1439179116302341",
+		"volume": "18",
+		"author": [
+			{
+				"family": "Panassiti",
+				"given": "Bernd"
+			},
+			{
+				"family": "Hartig",
+				"given": "Florian"
+			},
+			{
+				"family": "Fahrentrapp",
+				"given": "Johannes"
+			},
+			{
+				"family": "Breuer",
+				"given": "Michael"
+			},
+			{
+				"family": "Biedermann",
+				"given": "Robert"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					2,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "Sanchez-Bayo2019",
+		"type": "article-journal",
+		"container-title": "Biological Conservation",
+		"DOI": "10.1016/j.biocon.2019.01.020",
+		"ISSN": "00063207",
+		"journalAbbreviation": "Biological Conservation",
+		"language": "en",
+		"page": "8-27",
+		"source": "DOI.org (Crossref)",
+		"title": "Worldwide decline of the entomofauna: A review of its drivers",
+		"title-short": "Worldwide decline of the entomofauna",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0006320718313636",
+		"volume": "232",
+		"author": [
+			{
+				"family": "Sánchez-Bayo",
+				"given": "Francisco"
+			},
+			{
+				"family": "Wyckhuys",
+				"given": "Kris A.G."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "Hallmann2017",
+		"type": "article-journal",
+		"container-title": "PLOS ONE",
+		"DOI": "10.1371/journal.pone.0185809",
+		"ISSN": "1932-6203",
+		"issue": "10",
+		"journalAbbreviation": "PLoS ONE",
+		"language": "en",
+		"page": "e0185809",
+		"source": "DOI.org (Crossref)",
+		"title": "More than 75 percent decline over 27 years in total flying insect biomass in protected areas",
+		"URL": "https://dx.plos.org/10.1371/journal.pone.0185809",
+		"volume": "12",
+		"author": [
+			{
+				"family": "Hallmann",
+				"given": "Caspar A."
+			},
+			{
+				"family": "Sorg",
+				"given": "Martin"
+			},
+			{
+				"family": "Jongejans",
+				"given": "Eelke"
+			},
+			{
+				"family": "Siepel",
+				"given": "Henk"
+			},
+			{
+				"family": "Hofland",
+				"given": "Nick"
+			},
+			{
+				"family": "Schwan",
+				"given": "Heinz"
+			},
+			{
+				"family": "Stenmans",
+				"given": "Werner"
+			},
+			{
+				"family": "Müller",
+				"given": "Andreas"
+			},
+			{
+				"family": "Sumser",
+				"given": "Hubert"
+			},
+			{
+				"family": "Hörren",
+				"given": "Thomas"
+			},
+			{
+				"family": "Goulson",
+				"given": "Dave"
+			},
+			{
+				"family": "Kroon",
+				"given": "Hans",
+				"non-dropping-particle": "de"
+			}
+		],
+		"editor": [
+			{
+				"family": "Lamb",
+				"given": "Eric Gordon"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					12,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					10,
+					18
+				]
+			]
+		}
+	},
+	{
+		"id": "Seibold2019",
+		"type": "article-journal",
+		"container-title": "Nature",
+		"DOI": "10.1038/s41586-019-1684-3",
+		"ISSN": "0028-0836, 1476-4687",
+		"issue": "7780",
+		"journalAbbreviation": "Nature",
+		"language": "en",
+		"page": "671-674",
+		"source": "DOI.org (Crossref)",
+		"title": "Arthropod decline in grasslands and forests is associated with landscape-level drivers",
+		"URL": "http://www.nature.com/articles/s41586-019-1684-3",
+		"volume": "574",
+		"author": [
+			{
+				"family": "Seibold",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Gossner",
+				"given": "Martin M."
+			},
+			{
+				"family": "Simons",
+				"given": "Nadja K."
+			},
+			{
+				"family": "Blüthgen",
+				"given": "Nico"
+			},
+			{
+				"family": "Müller",
+				"given": "Jörg"
+			},
+			{
+				"family": "Ambarlı",
+				"given": "Didem"
+			},
+			{
+				"family": "Ammer",
+				"given": "Christian"
+			},
+			{
+				"family": "Bauhus",
+				"given": "Jürgen"
+			},
+			{
+				"family": "Fischer",
+				"given": "Markus"
+			},
+			{
+				"family": "Habel",
+				"given": "Jan C."
+			},
+			{
+				"family": "Linsenmair",
+				"given": "Karl Eduard"
+			},
+			{
+				"family": "Nauss",
+				"given": "Thomas"
+			},
+			{
+				"family": "Penone",
+				"given": "Caterina"
+			},
+			{
+				"family": "Prati",
+				"given": "Daniel"
+			},
+			{
+				"family": "Schall",
+				"given": "Peter"
+			},
+			{
+				"family": "Schulze",
+				"given": "Ernst-Detlef"
+			},
+			{
+				"family": "Vogt",
+				"given": "Juliane"
+			},
+			{
+				"family": "Wöllauer",
+				"given": "Stephan"
+			},
+			{
+				"family": "Weisser",
+				"given": "Wolfgang W."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					10,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "Netherer2019",
+		"type": "article-journal",
+		"container-title": "Frontiers in Forests and Global Change",
+		"DOI": "10.3389/ffgc.2019.00039",
+		"ISSN": "2624-893X",
+		"journalAbbreviation": "Front. For. Glob. Change",
+		"page": "39",
+		"source": "DOI.org (Crossref)",
+		"title": "Acute Drought Is an Important Driver of Bark Beetle Infestation in Austrian Norway Spruce Stands",
+		"URL": "https://www.frontiersin.org/article/10.3389/ffgc.2019.00039/full",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Netherer",
+				"given": "Sigrid"
+			},
+			{
+				"family": "Panassiti",
+				"given": "Bernd"
+			},
+			{
+				"family": "Pennerstorfer",
+				"given": "Josef"
+			},
+			{
+				"family": "Matthews",
+				"given": "Bradley"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					7,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "Chaves-Fonnegra2021",
+		"type": "article-journal",
+		"container-title": "Ecography",
+		"DOI": "10.1111/ecog.05527",
+		"ISSN": "0906-7590, 1600-0587",
+		"journalAbbreviation": "Ecography",
+		"language": "en",
+		"page": "ecog.05527",
+		"source": "DOI.org (Crossref)",
+		"title": "Environmental and biological drivers of white plague disease on shallow and mesophotic coral reefs",
+		"URL": "https://onlinelibrary.wiley.com/doi/10.1111/ecog.05527",
+		"author": [
+			{
+				"family": "Chaves‐Fonnegra",
+				"given": "Andia"
+			},
+			{
+				"family": "Panassiti",
+				"given": "Bernd"
+			},
+			{
+				"family": "Smith",
+				"given": "Tyler B."
+			},
+			{
+				"family": "Brown",
+				"given": "Elizabeth"
+			},
+			{
+				"family": "Clemens",
+				"given": "Elizabeth"
+			},
+			{
+				"family": "Sevier",
+				"given": "Moriah"
+			},
+			{
+				"family": "Brandt",
+				"given": "Marilyn E."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					4
+				]
+			]
+		}
+	}
+]

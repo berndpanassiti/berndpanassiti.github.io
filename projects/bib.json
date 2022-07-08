@@ -1,0 +1,67 @@
+[
+	{
+		"id": "http://zotero.org/groups/2905643/items/QGGFFNFD",
+		"type": "article-journal",
+		"abstract": "Despite the fact that parasites are highly specialized with respect to their hosts, empirical evidence demonstrates that host switching rather than co-speciation is the dominant factor influencing the diversification of host-parasite associations. Ecological fitting in sloppy fitness space has been proposed as a mechanism allowing ecological specialists to host-switch readily. That proposal is tested herein using an individual-based model of host switching. The model considers a parasite species exposed to multiple host resources. Through time host range expansion can occur readily without the prior evolution of novel genetic capacities. It also produces non-linear variation in the size of the fitness space. The capacity for host colonization is strongly influenced by propagule pressure early in the process and by the size of the fitness space later. The simulations suggest that co-adaptation may be initiated by the temporary loss of less fit phenotypes. Further, parasites can persist for extended periods in sub-optimal hosts, and thus may colonize distantly related hosts by a \"stepping-stone\" process.",
+		"container-title": "PLOS ONE",
+		"DOI": "10.1371/journal.pone.0139225",
+		"ISSN": "1932-6203",
+		"issue": "10",
+		"journalAbbreviation": "PLOS ONE",
+		"language": "en",
+		"page": "e0139225",
+		"source": "PLoS Journals",
+		"title": "Understanding Host-Switching by Ecological Fitting",
+		"URL": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0139225",
+		"volume": "10",
+		"author": [
+			{
+				"family": "Araujo",
+				"given": "Sabrina B. L."
+			},
+			{
+				"family": "Braga",
+				"given": "Mariana Pires"
+			},
+			{
+				"family": "Brooks",
+				"given": "Daniel R."
+			},
+			{
+				"family": "Agosta",
+				"given": "Salvatore J."
+			},
+			{
+				"family": "Hoberg",
+				"given": "Eric P."
+			},
+			{
+				"family": "Hartenthal",
+				"given": "Francisco W.",
+				"dropping-particle": "von"
+			},
+			{
+				"family": "Boeger",
+				"given": "Walter A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					8,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					10,
+					2
+				]
+			]
+		}
+	}
+]
