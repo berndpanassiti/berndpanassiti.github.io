@@ -1,12 +1,11 @@
 # Bacterial diseases concern winegrowers
 
 
-{{< figure src="/images/local_drivers_DSC05383_featured.jpg" title="Pine trees attacked by bark beetles (Photo: S. Netherer)" >}}
+{{< figure src="/images/local_drivers_DSC05383_featured.jpg" title="Wine grapes in Baden region, southwestern Germany" >}}
 
 How does the interplay of an insect vector, its host plant and a bacterial pathogen affect an agricultural disease at a local scale? Find out more how knowledge about such interactions can help to optimize pest management in viticulture...
 
-Agriculture faces In our recent paper {{< cite "Panassiti2017" >}} we studied the coral disease **white plague (WP)** in the Caribbean Sea, around the US-Virgin Islands. 
-Panassiti2017
+Agriculture faces multiple challenges, one being invasive species. In our recent paper {{< cite "Panassiti2017" >}} we studied the interaction of an invasive insect vector, a pathogen and a diseased crop on local scale.
 
 {{< admonition type=abstract title="Abstract" open=false >}}
 ‘Bois noir’ is a phytoplasma-mediated grapevine yellows disease that causes great economic damage in European vineyards. Previous studies have examined habitat relationships on a regional scale, which help to better understand the large-scale epidemiology. Local drivers, such as micro-habitat preferences of the vector (*Hyalesthes obsoletus*, a cixiid planthopper), or local interactions with reservoir host plants, however, are still poorly understood, although this knowledge is crucial for developing site-specific management strategies.

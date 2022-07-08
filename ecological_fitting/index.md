@@ -1,7 +1,12 @@
 # 
 
 
+### Ecological fitting
 
+Ecological fitting is a process that...
+In a recent study, we analysed the probability of congruent cophylogenies given the method, association and ecosystem {{< cite "Trivellone2022" >}}.
+
+### R package: PACT
 
 
 ### R package: HostSwitch

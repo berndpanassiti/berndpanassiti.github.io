@@ -22,15 +22,15 @@ The decline in insect diversity observed on global {{< cite "Sanchez-Bayo2019" >
 
 {{< figure src="/images/Heat_tree.jpg" title="Heattree" >}}
 
-AUM
+Agri-environmental measures (AES)
 {{< style "text-align:justify; strong{color:#00b1ff;}" >}}
-For more than three decades, the cultural landscape program (KULAP, “Kulturlandschafts- programm”, StMELF & StMUV 2020) financially supports farmers for environmentally friendly management. KULAP is divided into four main pillars representing climate protection, soil and water protection, biodiversity, and preservation of an attractive cultural landscape. Additionally, the Bavarian contractual nature conservation program (VNP, “Vertragsnaturschutzprogramm”, StMELF & StMUV 2020) preserves and improves ecologically valuable habitats that depend on nature-friendly management. Farmers who voluntarily manage their land in accordance with nature conservation objectives receive appropriate compensation for the additional effort and lost income. VNP implements the Bavarian biodiversity strategy and help to establishing the Natura 2000 European network. Even though being important instruments towards an environmentally friendly agriculture, both KULAP and VNP measure do not primarily aim to preserve and increase insect biomass and diversity.
+For more than three decades, the cultural landscape program (KULAP, “Kulturlandschafts- programm”, StMELF & StMUV 2020) financially supports farmers for environmentally friendly management. KULAP is divided into four main pillars representing climate protection, soil and water protection, biodiversity, and preservation of an attractive cultural landscape. Additionally, the Bavarian contractual nature conservation program (VNP, “Vertragsnaturschutzprogramm”, StMELF & StMUV 2020) preserves and improves ecologically valuable habitats that depend on nature-friendly management. Farmers who voluntarily manage their land in accordance with nature conservation objectives receive appropriate compensation for the additional effort and lost income. VNP implements the Bavarian biodiversity strategy and help to establishing the Natura 2000 European network.
 {{< /style >}} 
  
 **Aims**
 The main objective of this study was to investigate the influence of environmental drivers on grassland insect biomass and diversity. Specifically, we asked
-1)   Do agri-environmental measures relate to insect biomass and diversity in grasslands in Bavaria?; and
-2)   Do landscape structures, different management strategies, weather conditions and vegetation influence the biomass and diversity of insects?
+1)   Do AES relate to insect biomass and diversity in grasslands in Bavaria?; and
+2)   Do landscape structures, different management strategies and vegetation influence the biomass and diversity of insects?
 
 
 

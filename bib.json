@@ -496,6 +496,41 @@
 				]
 			]
 		}
+	},
+	{
+		"id": "Trivellone2022",
+		"type": "article-journal",
+		"container-title": "Under Review",
+		"language": "en",
+		"title": "A field synopsis, systematic review and meta-analyses of cophylogenetic studies: What is affecting congruence between phylogenies",
+		"author": [
+			{
+				"family": "Trivellone",
+				"given": "Valeria"
+			},
+			{
+				"family": "Panassiti",
+				"given": "Bernd"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					7,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					7,
+					8
+				]
+			]
+		}
 	}
 	
 ]
